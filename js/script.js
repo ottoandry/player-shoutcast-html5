@@ -25,7 +25,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 const RADIO_NAME = "Rock FM";
 
 // URL of SHOUTCast streaming without / on the final, eg: http://streaming.com:8080
-const URL_STREAMING = "http://104.156.244.180:8484";
+const URL_STREAMING = "http://109.169.23.22:38439";
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
